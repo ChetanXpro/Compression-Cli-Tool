@@ -1,5 +1,5 @@
 # Compression-Cli-Tool
-###This is a compression cli tool made with rust language
+## This is a compression cli tool made with rust language
 
 ## COMMANDS
  - Cd into project then
